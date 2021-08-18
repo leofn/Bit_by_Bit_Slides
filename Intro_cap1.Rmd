@@ -1,0 +1,54 @@
+---
+title: "Aula 1 - Introdução à Computational Social Science"
+author:
+- Leonardo F. Nascimento - ICTI/PPGCS/LABHDUFBA\newline 
+- Eric Brasil - UNILAB/LABHDUFBA
+institute: "PPGCS012 - Ciência Social Computacional 2021.2 (PPGCS/UFBA)"
+date: "`r format(Sys.time(), '%d %B de %Y')`"
+output: beamer_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# 1. Introdução: o que é Computational Social Science?
+
+The new field of Computational Social Science can be defined as the interdisciplinary investigation of the social universe on many scales, ranging from individual actors to the largest groupings, through the medium of computation.
+
+CIOFFI-REVILLA, C. Introduction to Computational Social Science: Principles and Applications. [s.l.] Springer, 2017. 
+
+
+# 2. Big data
+
+
+### 2.3 Características comuns de big data
+
+#### 2.3.1 Características que geralmente são boas para pesquisa
+
+##### 2.3.1.1 Big
+##### 2.3.1.2 Always-On (Sempre ligado!)
+##### 2.3.1.3 Non reactive (Não-reativo!)
+
+#### 2.3.2 Características que geralmente são ruins para a pesquisa
+
+2.3.2.1 Incompleto
+2.3.2.2 Inacessível
+2.3.2.3 Não representativo
+2.3.2.4 Drifting
+2.3.2.5 Algoritmicamente confundido
+2.3.2.6 Sujo
+2.3.2.7 Sensível
+2.4 Estratégias de pesquisa
+2.4.1 Contando coisas
+2.4.1.1 Táxis na cidade de Nova York
+2.4.1.2 Formação de amizade entre os alunos
+2.4.1.3 Censura de mídia social pelo governo chinês
+2.4.2 Previsão e previsão a curto prazo
+2.4.3 Experimentos de aproximação
+2.4.3.1 Experimentos naturais
+2.4.3.2 Matching
+2.5 Conclusão
+Apêndice Técnico
+Comentário adicional
+Atividades
