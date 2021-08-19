@@ -19,6 +19,10 @@ The new field of Computational Social Science can be defined as the interdiscipl
 CIOFFI-REVILLA, C. Introduction to Computational Social Science: Principles and Applications. [s.l.] Springer, 2017. 
 
 
+# 
+
+
+
 # 2. Big data
 
 
