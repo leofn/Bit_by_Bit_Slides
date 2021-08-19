@@ -232,4 +232,17 @@ CIOFFI-REVILLA, C. Introduction to Computational Social Science: Principles and 
 
 ## 2.4.3 Approximating experiments
 
+- natural experiments: "always-on data source and look for random events in the world" (p.53)
+
+- matching-pruning: "create pairs of people who are similar except that one has received the treatment and one has not" (p.55)
+
 ## 2.5 Conclusion
+
+- "no free lunch": in use of data for social scientists
+
+- "empirically driven theorizing"
+
+- "data-first approach, however, does not imply 'the end of theory'"
+
+
+# Obrigado!
