@@ -14,9 +14,20 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+
 ## 0. What is Computational Social Science?
 
-The new field of Computational Social Science can be defined as the interdisciplinary investigation of the social universe on many scales, ranging from individual actors to the largest groupings, through the medium of computation.
+[MANIFESTO DA CIÊNCIA SOCIAL COMPUTACIONAL](https://www.uel.br/revistas/uel/index.php/mediacoes/article/view/16806/13378)
+
+
+
+
+## 0. What is Computational Social Science?
+
+>"The new field of Computational Social Science can be defined as the interdisciplinary investigation of the social universe on many scales, ranging from individual actors to the largest groupings, through the medium of computation." (p.2)
+
+CIOFFI-REVILLA, C. Introduction to Computational Social Science: Principles and Applications. [s.l.] Springer, 2017. 
+
 
 CIOFFI-REVILLA, C. Introduction to Computational Social Science: Principles and Applications. [s.l.] Springer, 2017. 
 
