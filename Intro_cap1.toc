@@ -1,5 +1,6 @@
-\beamer@sectionintoc {1}{1. Introduction}{3}{0}{1}
-\beamer@sectionintoc {2}{2. Observing behavior}{12}{0}{2}
-\beamer@sectionintoc {3}{2.3 Ten common characteristics of big data}{20}{0}{3}
-\beamer@sectionintoc {4}{Conclusion (2.3.3 - 2.3.10):}{33}{0}{4}
-\beamer@sectionintoc {5}{2.4 Research strategies}{35}{0}{5}
+\beamer@sectionintoc {1}{1. Introduction}{4}{0}{1}
+\beamer@sectionintoc {2}{2. Observing behavior}{13}{0}{2}
+\beamer@sectionintoc {3}{2.3 Ten common characteristics of big data}{21}{0}{3}
+\beamer@sectionintoc {4}{Conclusion (2.3.3 - 2.3.10):}{34}{0}{4}
+\beamer@sectionintoc {5}{2.4 Research strategies}{36}{0}{5}
+\beamer@sectionintoc {6}{Obrigado!}{42}{0}{6}

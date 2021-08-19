@@ -17,9 +17,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## 0. What is Computational Social Science?
 
-[MANIFESTO DA CIÊNCIA SOCIAL COMPUTACIONAL](https://www.uel.br/revistas/uel/index.php/mediacoes/article/view/16806/13378)
-
-
+[MANIFESTO DA CIÊNCIA SOCIAL COMPUTACIONAL - 2012](https://www.uel.br/revistas/uel/index.php/mediacoes/article/view/16806/13378)
 
 
 ## 0. What is Computational Social Science?
@@ -28,15 +26,9 @@ knitr::opts_chunk$set(echo = TRUE)
 
 CIOFFI-REVILLA, C. Introduction to Computational Social Science: Principles and Applications. [s.l.] Springer, 2017. 
 
-
-CIOFFI-REVILLA, C. Introduction to Computational Social Science: Principles and Applications. [s.l.] Springer, 2017. 
-
-
 # 1. Introduction
 
 ## 1.1 An ink blot
-
-
 
 ![](./img/rwanda.png)
 
