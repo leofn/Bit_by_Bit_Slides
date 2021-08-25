@@ -1,0 +1,30 @@
+---
+title: "Aula 2 - Ethics"
+author:
+- Leonardo F. Nascimento - ICTI/PPGCS/LABHDUFBA\newline
+- Eric Brasil - UNILAB/LABHDUFBA
+date: "`r format(Sys.time(), '%d %B de %Y')`"
+output:
+  beamer_presentation:
+    slide_level: 2
+institute: PPGCS012 - Ciência Social Computacional 2021.2 (PPGCS/UFBA)
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+## Ética e a ciência social computacional
+
+[Salganik, Matthew J. 2017. Ethics. In: Bit by Bit: Social Research in the Digital Age. Princeton, NJ: Princeton University Press. Open review edition.](https://www.bitbybitbook.com/en/1st-ed/ethics/)
+
+## 6.1 Introduction
+
+Cientistas sociais computacionais deveriam se preocupar com a ética da pesquisa.
+
+- razões baseadas no temor
+- razões baseadas na esperança
+- não temos escolhas
+
+
