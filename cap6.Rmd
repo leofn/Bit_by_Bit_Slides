@@ -23,8 +23,30 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Cientistas sociais computacionais deveriam se preocupar com a ética da pesquisa.
 
-- razões baseadas no temor
-- razões baseadas na esperança
-- não temos escolhas
+## 6.1 Introduction
 
+Ferramentas para lidar com problemas éticos de forma responsável.
 
+Incertezas em relação à conduta apropriada. Leva a 2 problemas
+
+1. Violação de privacidade e realizar experimentos antiéticos. 
+
+2. AS incertezas levaram a importantes a não serem realizadas.
+
+## 6.1 Introduction
+
+Duas diferentes abordagens:
+
+1. Baseada nas regras (IRB): mais comum enter cientistas sociais - as regras mudam muito mais lentamente do que as necessidades geradas pela  na pesquisa digital
+
+2. ad hoc: cientistas de dados; sem debate aprofundado.
+
+## 6.1 Introduction
+
+Salganik defende um outro caminho: abordagem baseada em princípios.
+
+>  That is, researchers should evaluate their research through existing rules—which I will take as given and assume should be followed—and through more general ethical principles. This principles-based approach helps researchers make reasonable decisions for cases where rules have not yet been written, and it helps researchers communicate their reasoning to each other and the public. (282)
+
+Não é novo: décadas de debates. (relatório Belmont e Menlo)
+
+Essa abordagem ajuda na tomada de decisões e possibilita soluções claras e práticas.
