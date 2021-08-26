@@ -15,38 +15,273 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
-## Ética e a ciência social computacional
+# Ética e a ciência social computacional
 
 [Salganik, Matthew J. 2017. Ethics. In: Bit by Bit: Social Research in the Digital Age. Princeton, NJ: Princeton University Press. Open review edition.](https://www.bitbybitbook.com/en/1st-ed/ethics/)
 
-## 6.1 Introduction
+# 6.1 Introduction
 
 Cientistas sociais computacionais deveriam se preocupar com a ética da pesquisa.
 
 ## 6.1 Introduction
 
+**Isso não deveria ser óbvio?**
+
+## 6.1 Introduction
+
 Ferramentas para lidar com problemas éticos de forma responsável.
 
-Incertezas em relação à conduta apropriada. Leva a 2 problemas
+## 6.1 Introduction
+
+Incertezas em relação à conduta apropriada é recorrente e leva a 2 problemas:
 
 1. Violação de privacidade e realizar experimentos antiéticos. 
 
-2. AS incertezas levaram a importantes a não serem realizadas.
+2. As incertezas levaram  à não realização de importantes pesquisas
 
 ## 6.1 Introduction
 
 Duas diferentes abordagens:
 
-1. Baseada nas regras (IRB): mais comum enter cientistas sociais - as regras mudam muito mais lentamente do que as necessidades geradas pela  na pesquisa digital
+1. **Baseada nas regras (IRB)**: mais comum enter cientistas sociais - as regras mudam muito mais lentamente do que as necessidades geradas pela pesquisa digital
 
-2. ad hoc: cientistas de dados; sem debate aprofundado.
+2. **ad hoc**: cientistas de dados; sem debate aprofundado.
 
 ## 6.1 Introduction
 
-Salganik defende um outro caminho: abordagem baseada em princípios.
+Salganik defende um outro caminho: **abordagem baseada em princípios**.
 
 >  That is, researchers should evaluate their research through existing rules—which I will take as given and assume should be followed—and through more general ethical principles. This principles-based approach helps researchers make reasonable decisions for cases where rules have not yet been written, and it helps researchers communicate their reasoning to each other and the public. (282)
 
-Não é novo: décadas de debates. (relatório Belmont e Menlo)
+## 6.1 Introduction
 
-Essa abordagem ajuda na tomada de decisões e possibilita soluções claras e práticas.
+**Abordagem baseada em princípios**
+
+* Não é novo: décadas de debates. (relatório _Belmont_ e _Menlo_)
+
+* Essa abordagem ajuda na tomada de decisões e possibilita soluções claras e práticas.
+
+# 6.2 Three examples (283)
+
+1. Emotional Contagion
+2. Tastes, Ties, and Time
+3. Encore
+
+## 6.2.1 Emotional Contagion
+
+700.000 usuários do Facebook = experimento que pode ter alterado suas emoções. Sem consentimento nem submetido a supervisão ética externa.
+
+## 6.2.2 Tastes, Ties, and Time
+
+Dados raspados de estudantes no Facebook + registros de universidades = pesquisa + compartilhamento do dataset.
+
+## 6.2.3 Encore
+
+Pesquisa sobre censura governamental na internet. Pedacinhos de códigos escondidos em websites = após acessar, seu computador tentava visitar outra página que estava sendo monitorada na pesquisa.
+
+# 6.3 Digital is different
+
+>Social research in the digital age has different characteristics and therefore raises different ethical questions. (288)
+
+## Aumento do poder (sem regras claras sobre seu uso).
+ 
+ > By power, I mean simply the ability to do things to people without their consent or even awareness. The kinds of things that researchers can do to people include observing their behavior and enrolling them in experiments. (288)
+ 
+## Aumento do poder (sem regras claras sobre seu uso).
+
+* Observar sem consentimento ou conhecimento das pessoas: em escala inédita (big data)
+  - O Panóptico! (Foucault). _The unseen seer_
+  - O exemplo do censo e a ação nazista na IIWW: _unanticipated secondary use_.
+
+## Aumento do poder (sem regras claras sobre seu uso).
+
+Exemplo do projeto _Tastes, Ties, and Time_: dados granulares do Facebook + Harvard 
+
+>the researchers created an amazingly rich view of the social and cultural life of the students (Lewis et al. 2008). To many social researchers, this seems like the master database, which could be used for good. But to some others, it looks like the beginning of the database of ruin, which could be used unethically. In fact, it is probably a bit of both. (290)
+
+## Regras, leis e normas inconsistentes e que se sobrepõe. (293)
+
+1. Capacidades da era digital mudam mais rápido do que regras, leis e normas.
+2. Conceitos abstratos (como privacidade) ainda estão em constante debate por pesquisadores, políticos e ativistas.
+3. Pesquisas da era digital estão crescentemente imiscuidas em outros contextos, o que leva a normas sobrepstas
+
+# 6.4 Four principles
+
+1. Respect for Persons
+2. Beneficence
+3. Justice
+4. Respect for Law and Public Interest.
+
+## 6.4 Four principles
+
+1. Respect for Persons
+
+>Respect for Persons is about treating people as autonomous and
+honoring their wishes. (295)
+
+## 6.4 Four principles
+
+2. Beneficence
+
+>Beneficence is about understanding and improving the risk/benefit
+profile of your study, and then deciding if it strikes the right balance. (296)
+
+## 6.4 Four principles
+
+3. Justice
+
+> Justice is about ensuring that the risks and benefits of research are
+distributed fairly. (298)
+
+## 6.4 Four principles
+
+4. Respect for Law and Public Interest.
+
+> Respect for Law and Public Interest extends the principle of Beneficence beyond specific research participants to include all relevant stakeholders. (299)
+
+## 6.4 Four principles
+
+4. Respect for Law and Public Interest.
+
+- Compliance means that researchers should attempt to identify and obey relevant laws, contracts, and terms of service. 
+- transparency-based accountability, which means that researchers should be clear about their goals, methods, and results at all stages of their research and take responsibility for their actions. 
+
+# 6.5  Two ethical frameworks
+
+* Consequentialism
+* Deontology
+
+## 6.5  Two ethical frameworks
+
+**consequentialism**: focuses on taking actions that lead to better states in the world.
+
+**deontology**:  focuses on ethical duties, independent of their consequences.
+
+## 6.5  Two ethical frameworks
+
+>  A quick and crude way to distinguish the two frameworks is that deontologists focus on means and consequentialists focus on ends. (302)
+
+## 6.5  Two ethical frameworks
+
+Exemplo de consentimento infomado:
+
+>consequentialist thinking would support informed consent because it helps prevent bad outcomes for participants.  However, a deontological argument for informed consent focuses on a researcher’s duty to respect the autonomy of her participants. (302)
+
+## 6.5  Two ethical frameworks
+
+Solução?
+
+>One solution to these debates would be for social researchers to develop a consistent, morally solid, and easy-to-apply blend of consequentialism and deontology. (303)
+
+# 6.6 Areas of difficulty
+
+* Informed consent
+* Understanding and managing informational risk
+* Privacy
+* Making decisions in the face of uncertainty
+
+## 6.6.1 Informed consent
+
+Researchers should, can, and do follow the rule: some form of consent for most research.
+
+## 6.6.1 Informed consent
+
+A regra 'consentimento formal para tudo' não deve ser seguida (estudos de discriminação, por exemplo.)
+
+> What forms of consent are needed for what kinds of research? (305)
+
+> there are stronger and weaker forms of consent. 
+
+## 6.6.1 Informed consent
+
+Situações em que obter o consentimento formal pode ser complicado:
+
+* Colocar as pessoas em risco;
+* Comprometer o valor científico do estudo;
+* Logisticamente impraticável.
+
+## 6.6.1 Informed consent
+
+Soluções?
+
+> informing the public about the research, enabling an opt-out, seeking consent from third parties, debriefing, and seeking consent from a sample of participants (306)
+
+No geral: "some form of consent for most things."
+
+## 6.6.2 Understanding and managing informational risk
+
+>Informational risk is the most common risk in social research; it has increased dramatically; and it is the hardest risk to understand. (307)
+
+## 6.6.2 Understanding and managing informational risk
+
+O potencial danoso da divulgação de informações.
+
+## 6.6.2 Understanding and managing informational risk
+
+"Anonimização": um caminho para reduzir o risco informacional?
+
+## 6.6.2 Understanding and managing informational risk
+
+Comumente falha em seu objetivo.
+
+>all data are potentially identifiable and that all data are potentially sensitive. (311)
+
+## 6.6.2 Understanding and managing informational risk
+
+Maneira de reduzir o risco: "to create and follow a data protection plan. This plan will decrease the chance that your data will leak and will decrease the harm if a leak does somehow occur. " (312)
+
+## 6.6.2 Understanding and managing informational risk
+
+A questão do compartilhamento dos dados: _walled garden_
+
+> data are shared with people who meet certain criteria and who agree to be bound by certain rules (e.g., oversight from an IRB and a data protection plan). (313)
+
+## 6.6.3 Privacy
+
+>Privacy is a right to the appropriate flow of information. (314)
+
+## 6.6.3 Privacy
+
+_contextual integrity_:  focuses on the flow of information. (315)
+
+_context-relative informational norms_:
+
+- actors (subject, sender, recipient)
+- attributes (types of information)
+- transmission principles (constraints under which information flows)
+
+## 6.6.4 Making decisions in the face of uncertainty
+
+>Uncertainty need not lead to inaction. (317)
+
+## 6.6.4 Making decisions in the face of uncertainty
+
+**Better safe than sorry ("precautionary principle")**?
+
+## 6.6.4 Making decisions in the face of uncertainty
+
+Quatro abordagens para ajudar a tomar as decisões:
+
+* **the minimal risk standard**: benchmark the risk of a particular study against the risks that participants undertake in their daily lives, such as playing sports and driving cars  (319)
+* **power analysis**: to calculate the sample size they will need to reliably detect an effect of a given size
+* **ethical-response surveys**:  researchers present a brief description of a proposed research project 
+* **staged trials**
+
+# 6.7 Practical tips
+
+* The IRB is a floor, not a ceiling
+* Put yourself in everyone else’s shoes
+* Think of research ethics as continuous, not discrete
+
+# 6.8 Conclusion
+
+> Social research in the digital age raises new ethical issues. But these issues are not insurmountable. If we, as a community, can develop shared ethical norms and standards that are supported both by researchers and the public, then we can harness the capabilities of the digital age in ways that are responsible and beneficial to society. This chapter represents my attempt to move us in that direction, and I think the key will be for researchers to adopt principles-based thinking, while continuing to follow appropriate rules. (325)
+
+# Questões para reflexão
+
+1. Como os problemas étnicos estão relacionados e são discutidos em sua disciplina?
+2. Que dilemas e desafio étnicos têm colocado as principais barreiras ou limitações para a pesquisa?
+3. Como elaborar uma plano de ação ético com num contexto de pouco debate sobre a pesquisa digital?
+4. Como essas questões se aplicam para as fontes históricas digitalizadas?
+
+# Obrigado!
